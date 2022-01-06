@@ -1,4 +1,5 @@
-#!/bin/bash -i
+
+
 # Push-button installer of macOS on VirtualBox
 # (c) myspaghetti, licensed under GPL2.0 or higher
 # url: https://github.com/myspaghetti/macos-virtualbox
